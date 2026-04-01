@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎬 CineStream
+# 🎬 CineStream (Stack)
 
 **A full-stack Netflix-inspired streaming platform**
 
